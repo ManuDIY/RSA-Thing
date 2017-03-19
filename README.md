@@ -1,4 +1,4 @@
-#RSA Thing
+# RSA Thing
 
 
 RSA Thing is a small program that performs an RSA encryption algorithm on three given integers, `b`, `n`, and `m`.
